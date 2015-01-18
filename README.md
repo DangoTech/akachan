@@ -2,4 +2,4 @@
 
 piglet is not fired i guess
 
-Tong Yuen is maybe wearing a duck hat
+Tong Yuen is wearing a duck hat
