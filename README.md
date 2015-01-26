@@ -9,7 +9,8 @@
 2015-01-16 - got android studio environment set up
 - able to run debugger on phone
 - got emulator to run on pink dango's computer
-  (had issue with 
+  (had issue with HAXM set to 1gb, running images that requires 
+  >1gb ram will cause it to run extremely slow)
 - got emulator to run on blue dango's computer
   (had issue with HAXM didn't install properly due to 
   hyper V enabled, see
