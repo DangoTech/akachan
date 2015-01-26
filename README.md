@@ -1,6 +1,7 @@
 # akachan
 2015-01-25 - increase the minSdkVersion support
 - Up'ed the version from 8 to 16 (Jelly bean 4.1)
+- Finished up the Customize the Text Color for the action bar tutorial
 
 2015-01-23 - Android Studio tutorial
 - Finished part 1 "Build Your First App"
